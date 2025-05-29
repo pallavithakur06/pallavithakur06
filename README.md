@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hello, I'm Pallavi Thakur!
 
-<!--
-**pallavithakur06/pallavithakur06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Cloud Architect | AI Enthusiast | Student*
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm Pallavi, a dedicated Cloud Architect with a passion for solving complex problems and building efficient solutions, along side creating web applications. My journey in tech is fueled by a relentless curiosity and a drive to continuously improve, learn and innovate.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 About Me
+
+- 🔭 *Currently working on:* Exciting Cloud projects and AI models.
+- 🌱 *Learning:* JAVA, and currently working exciting cloud projects.
+- 👯 *Looking to collaborate on:* Innovative projects that challenge my skills and knowledge.
+- 💬 *Ask me about:* Linux, C, C++, JavaScript, JAVA and any kind of Tech related to Web Developement.
+- 📫 *How to reach me:*  [LinkedIn](https://www.linkedin.com/in/pallavi-thakur-880a83294/) 
+
+
+## 🛠️ Skills & Tools
+
+- *Languages:* Bash, C, C++, Java, HTML, CSS, SQL, JavaScript
+- *Tools:* Linux tools, GitHub, VSCode
+- *Frameworks:* AWS
+
+## 📊 GitHub Stats
+
+![Pallavi's Stats](https://github-readme-stats.vercel.app/api?username=pallavithakur06&theme=prussian&show_icons=true&hide_border=true&count_private=false)
+![Pallavi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pallavithakur06&theme=prussian&hide_border=true)
+![Pallavi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pallavithakur06&theme=prussian&show_icons=true&hide_border=true&layout=compact)
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallavi-thakur-880a83294/)
+
+
+Thanks for stopping by! Let's build something amazing together.
