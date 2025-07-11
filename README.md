@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm Pallavi, a dedicated Cloud Architect with a pa
 
 ## 🛠️ Skills & Tools
 
-- *Languages:* Bash, C, C++, Java, HTML, CSS, SQL, JavaScript
+- *Languages:* Bash, C, C++, Java, HTML, CSS, SQL, JavaScript,python
 - *Tools:* Linux tools, GitHub, VSCode
 - *Frameworks:* AWS
 
