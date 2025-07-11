@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm Pallavi, a dedicated Cloud Architect with a pa
 - 🌱 *Learning:* JAVA, and currently working exciting cloud projects.
 - 👯 *Looking to collaborate on:* Innovative projects that challenge my skills and knowledge.
 - 💬 *Ask me about:* Linux, C, C++, JavaScript, JAVA and any kind of Tech related to Web Developement.
-- 📫 *How to reach me:*  [LinkedIn](https://www.linkedin.com/in/pallavi-thakur-880a83294/) 
 
 
 ## 🛠️ Skills & Tools
