@@ -25,9 +25,6 @@ Welcome to my GitHub profile! I'm Pallavi, a dedicated Cloud Architect with a pa
 ![Pallavi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pallavithakur06&theme=prussian&hide_border=true)
 ![Pallavi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pallavithakur06&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallavi-thakur-880a83294/)
 
 
 Thanks for stopping by! Let's build something amazing together.
